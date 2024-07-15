@@ -30,4 +30,4 @@ BookBot 📘 is a Python script designed to analyze a text file and generate a r
 
    Ensure that you replace `"books/frankenstein.txt"` with the path to the text file you want to analyze.
 
-##Thanks [@bootdotdev](https://github.com/bootdotdev)
+## Thanks [@bootdotdev](https://github.com/bootdotdev)
